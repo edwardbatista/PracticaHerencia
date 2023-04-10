@@ -1,0 +1,15 @@
+C:\Users\0000\source\repos\PracticaHerencia\PracticaHerencia\bin\Debug\net7.0\PracticaHerencia.exe
+C:\Users\0000\source\repos\PracticaHerencia\PracticaHerencia\bin\Debug\net7.0\PracticaHerencia.deps.json
+C:\Users\0000\source\repos\PracticaHerencia\PracticaHerencia\bin\Debug\net7.0\PracticaHerencia.runtimeconfig.json
+C:\Users\0000\source\repos\PracticaHerencia\PracticaHerencia\bin\Debug\net7.0\PracticaHerencia.dll
+C:\Users\0000\source\repos\PracticaHerencia\PracticaHerencia\bin\Debug\net7.0\PracticaHerencia.pdb
+C:\Users\0000\source\repos\PracticaHerencia\PracticaHerencia\obj\Debug\net7.0\PracticaHerencia.csproj.AssemblyReference.cache
+C:\Users\0000\source\repos\PracticaHerencia\PracticaHerencia\obj\Debug\net7.0\PracticaHerencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0000\source\repos\PracticaHerencia\PracticaHerencia\obj\Debug\net7.0\PracticaHerencia.AssemblyInfoInputs.cache
+C:\Users\0000\source\repos\PracticaHerencia\PracticaHerencia\obj\Debug\net7.0\PracticaHerencia.AssemblyInfo.cs
+C:\Users\0000\source\repos\PracticaHerencia\PracticaHerencia\obj\Debug\net7.0\PracticaHerencia.csproj.CoreCompileInputs.cache
+C:\Users\0000\source\repos\PracticaHerencia\PracticaHerencia\obj\Debug\net7.0\PracticaHerencia.dll
+C:\Users\0000\source\repos\PracticaHerencia\PracticaHerencia\obj\Debug\net7.0\refint\PracticaHerencia.dll
+C:\Users\0000\source\repos\PracticaHerencia\PracticaHerencia\obj\Debug\net7.0\PracticaHerencia.pdb
+C:\Users\0000\source\repos\PracticaHerencia\PracticaHerencia\obj\Debug\net7.0\PracticaHerencia.genruntimeconfig.cache
+C:\Users\0000\source\repos\PracticaHerencia\PracticaHerencia\obj\Debug\net7.0\ref\PracticaHerencia.dll
